@@ -1,7 +1,7 @@
 
 # Greetings 👋
 
-Hey there, I'm Rami Sabbagh, An IT student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
+Hey there, I'm Rami Sabbagh, A 3rd year IT student at [Damascus University](https://en.wikipedia.org/wiki/Damascus_University).
 
 Started programming at the age of 13 (~8 years ago) with the help of the Internet. Been passionate in computers ever since.
 
