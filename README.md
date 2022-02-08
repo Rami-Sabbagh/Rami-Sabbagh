@@ -25,11 +25,11 @@ Have a nice day and stay safe!
 
 ### Mostly experienced in
 
-![Java][b-java] ![TypeScript][b-typescript] ![JavaScript][b-javascript]  ![Lua][b-lua]
+![TypeScript][b-typescript] ![JavaScript][b-javascript] ![Java][b-java] ![Lua][b-lua]
 
-[b-java]: https://img.shields.io/badge/java-e01e23.svg?style=for-the-badge&logo=java&logoColor=white
 [b-typescript]: https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white
 [b-javascript]: https://img.shields.io/badge/javascript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=black
+[b-java]: https://img.shields.io/badge/java-e01e23.svg?style=for-the-badge&logo=java&logoColor=white
 [b-lua]: https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white
 
 ### Least experienced in
