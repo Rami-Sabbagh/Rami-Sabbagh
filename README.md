@@ -41,13 +41,6 @@ Have a nice day and stay safe!
 [b-cpp]: https://img.shields.io/badge/c%2b%2b-00599c.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white
 [b-python]: https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white
 [b-c]: https://img.shields.io/badge/c-a8b9cc.svg?style=for-the-badge&logo=c&logoColor=black
-## Frameworks & Toolchains
-
-![React][b-react] ![Webpack][b-webpack] ![Sass][b-sass]
-
-[b-react]: https://img.shields.io/badge/react-61dafb.svg?style=for-the-badge&logo=react&logoColor=black
-[b-webpack]: https://img.shields.io/badge/webpack-87cbee.svg?style=for-the-badge&logo=webpack&logoColor=black
-[b-sass]: https://img.shields.io/badge/sass-c76494.svg?style=for-the-badge&logo=sass&logoColor=white
 
 ## Operating Systems
 
@@ -79,8 +72,7 @@ Have a nice day and stay safe!
 
 ## Graphics Tools
 
-![GIMP][b-gimp] ![Inkscape][b-inkscape] ![Figma][b-figma]
+![GIMP][b-gimp] ![Inkscape][b-inkscape]
 
 [b-gimp]: https://img.shields.io/badge/gimp-5c5543.svg?style=for-the-badge&logo=gimp&logoColor=white
 [b-inkscape]: https://img.shields.io/badge/inkscape-000000.svg?style=for-the-badge&logo=inkscape&logoColor=white
-[b-figma]: https://img.shields.io/badge/figma-f24e1e.svg?style=for-the-badge&logo=figma&logoColor=white
