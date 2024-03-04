@@ -25,21 +25,25 @@ Have a nice day and stay safe!
 
 ### Mostly experienced in
 
-![TypeScript][b-typescript] ![JavaScript][b-javascript] ![Java][b-java] ![Lua][b-lua]
+![TypeScript][b-typescript] ![Python][b-python] ![JavaScript][b-javascript] ![Lua][b-lua]
 
 [b-typescript]: https://img.shields.io/badge/typescript-3178c6.svg?style=for-the-badge&logo=typescript&logoColor=white
+[b-python]: https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white
 [b-javascript]: https://img.shields.io/badge/javascript-ead41c.svg?style=for-the-badge&logo=javascript&logoColor=black
-[b-java]: https://img.shields.io/badge/java-e01e23.svg?style=for-the-badge&logo=java&logoColor=white
 [b-lua]: https://img.shields.io/badge/lua-2c2d72.svg?style=for-the-badge&logo=lua&logoColor=white
+
+### Moderately experienced in
+
+![Java][b-java]
+
+[b-java]: https://img.shields.io/badge/java-e01e23.svg?style=for-the-badge&logo=java&logoColor=white
 
 ### Least experienced in
 
-![Rust][b-rust] ![C++][b-cpp] ![Python][b-python] ![C][b-c]
-
+![Rust][b-rust] ![C++][b-cpp] ![C][b-c]
 
 [b-rust]: https://img.shields.io/badge/rust-000000.svg?style=for-the-badge&logo=rust&logoColor=white
 [b-cpp]: https://img.shields.io/badge/c%2b%2b-00599c.svg?style=for-the-badge&logo=c%2b%2b&logoColor=white
-[b-python]: https://img.shields.io/badge/python-3776ab.svg?style=for-the-badge&logo=python&logoColor=white
 [b-c]: https://img.shields.io/badge/c-a8b9cc.svg?style=for-the-badge&logo=c&logoColor=black
 
 ## Operating Systems
@@ -48,7 +52,7 @@ Have a nice day and stay safe!
 
 ![Windows 11][b-windows]
 
-### Also I use every while and then
+### Every now and then
 
 ![Ubuntu WSL][b-wsl] ![Ubuntu Server][b-ubuntu] ![Raspberry Pi OS][b-raspberry]
 
